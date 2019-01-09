@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: esatatement-service
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: osiahemm
+Implementation-Vendor-Id: com.sape.it.banking.account.estatement
+Build-Jdk: 1.8.0_121
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/esatatement-service
+Created-By: Maven Integration for Eclipse
+
